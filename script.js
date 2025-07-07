@@ -19,9 +19,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // Efeito interativo: destaque do menu ao passar o mouse
+  // Efeito hover no menu
   $('.navbar li a').hover(
-    function () { $(this).css('color', '#00c9a7'); },
-    function () { $(this).css('color', '#fff'); }
+    function () { $(this).css('color', '#87CEEB'); },
+    function () { $(this).css('color', '#20B2AA'); }
   );
 });
