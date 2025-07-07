@@ -12,7 +12,6 @@ Este projeto é um site pessoal desenvolvido como exercício prático da discipl
 - `contato.html`: Formulário funcional com validação JavaScript
 - `style.css`: Estilização e responsividade
 - `script.js`: Interações com jQuery e JS puro
-- `tools.png` & `lifecicle.png`: Ilustrações sobre Data Science
 
 ---
 
